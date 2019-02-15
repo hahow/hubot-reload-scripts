@@ -1,20 +1,20 @@
 {
   "name": "hubot-reload-scripts",
   "description": "Reloads scripts without restart. Loads new scripts too. (a fork version that works perfectly with some more fixes)",
-  "version": "0.1.4",
-  "author": "Vinta Chen <vinta.chen@gmail.com> (http://vinta.ws/)",
+  "version": "1.0.0",
+  "author": "Hahow (http://hahow.in/)",
   "license": "MIT",
   "keywords": "hubot, hubot reload, hubot load, hubot scripts, hubot scripting",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vinta/hubot-reload-scripts.git"
+    "url": "git://github.com/hahow/hubot-reload-scripts.git"
   },
   "bugs": {
-    "url": "https://github.com/vinta/hubot-reload-scripts/issues"
+    "url": "https://github.com/hahow/hubot-reload-scripts/issues"
   },
   "dependencies": {},
   "peerDependencies": {
-    "hubot": "2.x"
+    "hubot": "3.x"
   },
   "devDependencies": {
     "coffee-script": "1.9.x"
